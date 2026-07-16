@@ -14,15 +14,14 @@ El dataset `Telecom-analysis` incluye mas de 20,000 tipos de valores faltantes, 
 Haz clic en el siguiente botón:
 
 
-
 O:
 
-1. Abre el archivo `.ipynb` en GitHub
+1. Abre el archivo `Telecom-analysis-Sprint7.ipynb` en GitHub
 2. Haz clic en **Open in Colab**
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `[Telecom-analysis](https://github.com/ingridvillamizar23-jpg/Telecom-analysis---Sprint-7/blob/main/Telecom-analysis-Sprint7.ipynb)`
+1. Abre `Telecom-analysis-Sprint7.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
