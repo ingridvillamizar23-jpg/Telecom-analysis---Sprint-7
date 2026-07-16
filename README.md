@@ -1,4 +1,4 @@
-# Telecom-analysis Analysis – Sprint 7
+# Telecom-analysis – Sprint 7
 
 Este repositorio contiene el análisis realizado durante el Sprint 7 del caso Telecom-analysis.
 
