@@ -22,7 +22,7 @@ O:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `Telecom-analysis`
+1. Abre `[Telecom-analysis](https://github.com/ingridvillamizar23-jpg/Telecom-analysis---Sprint-7/blob/main/Telecom-analysis-Sprint7.ipynb)`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
