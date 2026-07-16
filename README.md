@@ -1,19 +1,19 @@
-# EverPeak Retail Analysis – Sprint 7
+# Telecom-analysis Analysis – Sprint 7
 
-Este repositorio contiene el análisis realizado durante el Sprint 7 del caso EverPeak–SilverBasket.
+Este repositorio contiene el análisis realizado durante el Sprint 7 del caso Telecom-analysis.
 
-El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
+El dataset `Telecom-analysis` incluye mas de 20,000 tipos de valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. 
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/everpeak_analysis.ipynb`
+- `Telecom-analysis`
   → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+
 
 O:
 
@@ -22,7 +22,7 @@ O:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `notebooks/everpeak_analysis.ipynb`
+1. Abre `Telecom-analysis`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
